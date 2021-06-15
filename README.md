@@ -1,4 +1,7 @@
-# react-portfolio
+# Video Demo to Deploy Repo to Github Pages
+- [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) 
+
+# demo github portfolio
 
 My latest and greatest portfolio built with HTML, CSS, JS, Bootstrap & jQuery for all of my best work. Contains links to my LinkedIn, GitHub, email, and my Resume. If you find errors of any kind please do let me know.
 

@@ -1,7 +1,8 @@
-# Video Demo to Deploy Repo to Github Pages
+# Docs to Deploy Repo to Github Pages
+- [Step-by-step Github Pages walk-thru](https://anilemrah.medium.com/how-to-publish-your-html-with-github-pages-8f3f854e7d4)
 - [YouTube video on enabling GitHub Pages](https://youtu.be/P4Mu1t5rIXg) 
 
-# demo github portfolio
+# Demo Github Portfolio
 
 My latest and greatest portfolio built with HTML, CSS, JS, Bootstrap & jQuery for all of my best work. Contains links to my LinkedIn, GitHub, email, and my Resume. If you find errors of any kind please do let me know.
 

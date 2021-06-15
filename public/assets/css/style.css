@@ -63,7 +63,7 @@
   .splash {
     background:url("https://unsplash.com/photos/nd_6z4JFK4g/download?force=true") no-repeat fixed center bottom;
       background-size: cover;
-      color: #fff;
+      color: #000;
   }
   
   .splash .container {
